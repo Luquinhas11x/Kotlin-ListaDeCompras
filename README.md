@@ -21,6 +21,15 @@ O padrão MVVM é uma arquitetura que divide o aplicativo em três componentes p
    ```bash
    git clone https://github.com/Luquinhas11x/Kotlin-ListaDeCompras
 
-## Evidencias
+## Evidencia - Inicio
 ![image](https://github.com/user-attachments/assets/af1f5803-87e6-46c8-a65d-75eebc609abe)
+
+## Evidencia - Lista de Produtos
+![image](https://github.com/user-attachments/assets/6ef6d00e-c9a1-4730-afe2-6f7ad466c487)
+## Evidencia - Produto sendo exluido 
+![image](https://github.com/user-attachments/assets/e2d28120-1e17-4744-9f59-c97500f61f12)
+
+
+
+
 
